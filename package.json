@@ -1,0 +1,24 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Simple logger for node and browser, base on debug.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/billcz/logger.git"
+  },
+  "keywords": [
+    "logger",
+    "debug",
+    "javascript"
+  ],
+  "author": "billcz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billcz/logger/issues"
+  },
+  "homepage": "https://github.com/billcz/logger#readme"
+}
