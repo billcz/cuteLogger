@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "cuteLogger",
   "version": "1.0.0",
   "description": "Simple logger for node and browser, base on debug.",
   "main": "index.js",
