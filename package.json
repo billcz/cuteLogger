@@ -1,6 +1,6 @@
 {
   "name": "cuteLogger",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple logger for node and browser, base on debug.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
         "NODE_ENV": "development"
       }
     },
-    "betterBuild":{
+    "betterBuild": {
       "command": "babel src -d dist",
       "env": {
         "NODE_ENV": "development"
