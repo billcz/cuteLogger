@@ -7,6 +7,11 @@
 -->
 
 Simple logger support both for node server and browser, base on [debug](https://github.com/visionmedia/debug).
+## Install
+```bash
+npm install cuteLogger
+```
+
 ## How to Use?
 You can write code like this both on server and browse;
 
